@@ -1,0 +1,55 @@
+text,label
+can you change my name to Steve,update_name
+please set my name as Clara,update_name
+i want to be called David,update_name
+call me Sam from now on,update_name
+refer to me as Olivia,update_name
+i would like you to call me Zoe,update_name
+let's change my name to Alan,update_name
+hey can you update my name?,update_name
+good day,greeting
+hey there!,greeting
+hi!,greeting
+hello there,greeting
+howdy partner,greeting
+good afternoon,greeting
+good night,greeting
+how are you doing?,chatbot_status
+how are things?,chatbot_status
+how's everything going?,chatbot_status
+what's up?,chatbot_status
+what can you do?,capabilities
+what are your capabilities?,capabilities
+tell me what you can do?,capabilities
+what services do you offer?,capabilities
+bye,exit
+goodbye,exit
+see you later,exit
+take care,exit
+book a table,book_table
+i want to make a reservation,book_table
+can you reserve a table for me?,book_table
+schedule a reservation for 4 people,book_table
+show me the menu,show_menu
+what's on the menu?,show_menu
+can i see the menu,show_menu
+what are today's specials?,todays_specials
+tell me the specials,todays_specials
+what's special today?,todays_specials
+when do you open,restaurant_hours
+what time do you open?,restaurant_hours
+what are your hours?,restaurant_hours
+when does the restaurant open?,restaurant_hours
+where is your restaurant located?,restaurant_location
+tell me the restaurant address,restaurant_location
+where can I find your restaurant?,restaurant_location
+make an order,place_order
+I'd like to order food,place_order
+can I place an order?,place_order
+I want to order a pizza,place_order
+show my bookings,view_bookings
+do I have any bookings?,view_bookings
+check my reservations,view_bookings
+what have I ordered?,view_order
+show me my orders,view_order
+can I see my order history?,view_order

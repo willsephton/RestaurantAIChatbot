@@ -1,0 +1,177 @@
+text,label
+i want to book a table,book_table
+reserve a table for two,book_table
+can i get a table at 7 pm,book_table
+book a table for tonight,book_table
+id like to make a reservation,book_table
+can i book a table for this evening,book_table
+id like a table for three at 8 pm,book_table
+reserve a spot for me,book_table
+can i schedule a dinner reservation,book_table
+i want to reserve a table for four,book_table
+how can i book a table here,book_table
+do you have tables available at 6 pm,book_table
+please book a table for tomorrow night,book_table
+is it possible to reserve a table online,book_table
+help me book a table for 7 o'clock,book_table
+i would like to reserve a table for five,book_table
+can you arrange a table for six,book_table
+book a table for two at 9 pm,book_table
+reserve a table for our party,book_table
+can you book a table for 10 pm,book_table
+please reserve a table by the window,book_table
+i want a table near the entrance,book_table
+how do i make a reservation for today,book_table
+show me the menu,show_menu
+whats on the menu,show_menu
+can i see the menu,show_menu
+what dishes do you have,show_menu
+do you have a food menu,show_menu
+id like to see your menu,show_menu
+show me your list of dishes,show_menu
+where can i find the menu,show_menu
+can you display the menu,show_menu
+what options are on your menu,show_menu
+what do you serve,show_menu
+could you show me the items available,show_menu
+is there a menu i can view,show_menu
+whats on your food menu today,show_menu
+can you list the dishes you offer,show_menu
+is there a dessert menu,show_menu
+can you show me a drink menu,show_menu
+whats the special today,show_menu
+tell me the appetizer options,show_menu
+whats your vegetarian menu,show_menu
+is there a kids menu,show_menu
+do you have gluten-free options,show_menu
+are there any vegan choices,show_menu
+what are today's specials,todays_specials
+what is the special of the day,todays_specials
+do you have any specials,todays_specials
+tell me the special menu,todays_specials
+what dishes are special today,todays_specials
+whats unique on the menu today,todays_specials
+are there any chefs specials,todays_specials
+show me the daily specials,todays_specials
+what is special today in food,todays_specials
+tell me about the highlights on your menu,todays_specials
+do you have any limited-time specials,todays_specials
+whats on the featured menu,todays_specials
+can you tell me about todays deals,todays_specials
+highlight todays unique dishes,todays_specials
+are there any seasonal specials,todays_specials
+whats the dish of the day,todays_specials
+what is the chefs recommendation,todays_specials
+is there a special drink today,todays_specials
+what time does the restaurant close,restaurant_hours
+when do you open,restaurant_hours
+what are your opening hours,restaurant_hours
+are you open right now,restaurant_hours
+when does your restaurant open,restaurant_hours
+what time do you start serving food,restaurant_hours
+how late are you open,restaurant_hours
+what time do you close today,restaurant_hours
+are you open during lunchtime,restaurant_hours
+tell me your opening and closing hours,restaurant_hours
+can i come in now,restaurant_hours
+when does your kitchen close,restaurant_hours
+what are your service hours,restaurant_hours
+do you open early in the morning,restaurant_hours
+is the restaurant open after 9 pm,restaurant_hours
+what is your address,restaurant_location
+where are you located,restaurant_location
+how can i get to your restaurant,restaurant_location
+give me your location,restaurant_location
+whats the restaurants location,restaurant_location
+where is your place located,restaurant_location
+can you tell me the address of the restaurant,restaurant_location
+how do i find your restaurant,restaurant_location
+send me the location,restaurant_location
+can you provide your address,restaurant_location
+is the restaurant close to downtown,restaurant_location
+give me directions to your place,restaurant_location
+what is the address to this place,restaurant_location
+where exactly are you situated,restaurant_location
+how far is the restaurant from my place,restaurant_location
+is there parking near the restaurant,restaurant_location
+how do i get to your place by public transport,restaurant_location
+can i walk to your restaurant,restaurant_location
+whats the nearest subway station to your place,restaurant_location
+id like to place an order,place_order
+can i order some food,place_order
+i want to make an order,place_order
+im ready to order,place_order
+can you take my order,place_order
+id like to order food,place_order
+place an order for me please,place_order
+i want a salad,place_order
+add a dessert to my order,place_order
+i want to order some drinks,place_order
+can you add soup to my order,place_order
+id like to order dinner,place_order
+please take my food order,place_order
+can i request a takeaway order,place_order
+add a pizza to my list,place_order
+show me my current order,view_order
+what is my current order,view_order
+can i see my current order,view_order
+check my current order,view_order
+whats my order status,view_order
+did you get my order,view_order
+can you check my order status,view_order
+is my order ready,view_order
+show my pending orders,view_order
+has my order been processed,view_order
+can i know my order details,view_order
+whats the update on my order,view_order
+tell me my order summary,view_order
+can i confirm my order details,view_order
+whats in my current order,view_order
+show me my bookings,view_bookings
+can i see my reservations,view_bookings
+what are my bookings,view_bookings
+check my bookings,view_bookings
+view my reservations,view_bookings
+show my current reservations,view_bookings
+tell me about my table bookings,view_bookings
+are there any bookings in my name,view_bookings
+let me check my reservations,view_bookings
+do i have any active bookings,view_bookings
+can you display my bookings,view_bookings
+tell me the details of my reservations,view_bookings
+check my table reservation details,view_bookings
+what bookings have i made,view_bookings
+are my reservations confirmed,view_bookings
+can you confirm my reservation,view_bookings
+do i have any upcoming bookings,view_bookings
+show me all my reservations,view_bookings
+i would like to reserve a table for two,book_table
+can you reserve a table for me at 8,book_table
+book a table for five,book_table
+is a table available for 7 pm,book_table
+i would like to book for six,book_table
+can i get a booking for lunch tomorrow,book_table
+is there availability for a table at 6 pm,book_table
+i need a table for eight,book_table
+please book a table for three at noon,book_table
+book a table for four people at 7 pm,book_table
+can i make a reservation for tonight,book_table
+i would like to reserve a corner table,book_table
+what time do you have for a table,book_table
+do you have any spots for lunch today,book_table
+can you find me a table at 5 pm,book_table
+where can i view the menu,show_menu
+what's your drink menu like,show_menu
+can you share your specials,show_menu
+can i take a look at the menu,show_menu
+what food do you offer,show_menu
+what's the food options today,show_menu
+do you have a vegetarian menu,show_menu
+could you give me the list of items,show_menu
+can i see your daily specials,show_menu
+is there a wine list,show_menu
+whats your meal options for today,show_menu
+what are the best dishes,show_menu
+whats the menu for today,show_menu
+is there a soup of the day,show_menu
+what is the soup today,show_menu

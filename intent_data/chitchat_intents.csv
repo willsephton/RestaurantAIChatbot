@@ -1,0 +1,129 @@
+text,label
+update my name,update_name
+change my name,update_name
+set my name,update_name
+call me John,update_name
+my name is Alice,update_name
+i am called Bob,update_name
+from now on my name is Charlie,update_name
+you can refer to me as David,update_name
+id like to go by Emma,update_name
+hello,greeting
+hi,greeting
+hey there,greeting
+greetings,greeting
+howdy,greeting
+morning,greeting
+good evening,greeting
+how are you,chatbot_status
+how are you feeling,chatbot_status
+hows it going,chatbot_status
+hows everything,chatbot_status
+how do you feel,chatbot_status
+whats up,chatbot_status
+how are things,chatbot_status
+hows life,chatbot_status
+how do you do,chatbot_status
+hows the mood,chatbot_status
+whats new,chatbot_status
+how is it going,chatbot_status
+hows your day,chatbot_status
+whats happening,chatbot_status
+whats going on,chatbot_status
+how are you doing,chatbot_status
+hows the chat going,chatbot_status
+are you okay,chatbot_status
+are you good,chatbot_status
+hows your progress,chatbot_status
+is everything alright,chatbot_status
+how are you today,chatbot_status
+whats up with you,chatbot_status
+hows everything going,chatbot_status
+what is my name,get_name
+whats my name,get_name
+can you tell me my name,get_name
+who am i,get_name
+remind me of my name,get_name
+do you know my name,get_name
+tell me my name,get_name
+my name is John,update_name
+i am known as Sarah,update_name
+i go by the name Mike,update_name
+please call me Natalie,update_name
+you can call me Tim,update_name
+i am called Steve,update_name
+i prefer to be called Lily,update_name
+my names Mark,update_name
+my new name is Rachel,update_name
+id like you to call me Sophia,update_name
+you can address me as Thomas,update_name
+from now on call me Daniel,update_name
+please refer to me as Jessica,update_name
+id like you to call me Harry,update_name
+you can call me Grace,update_name
+i go by Sophie now,update_name
+my names Jack,update_name
+i am now known as Clara,update_name
+you may call me Oscar,update_name
+i prefer Emma,update_name
+my name used to be Peter,update_name
+you can call me Alex from now on,update_name
+please use the name Olivia,update_name
+call me Ben from now on,update_name
+you can now call me Zoe,update_name
+i like to go by the name Lily,update_name
+hows your day been,chatbot_status
+how are you today,chatbot_status
+how are you feeling today,chatbot_status
+whats new with you,chatbot_status
+hows everything going for you,chatbot_status
+hows life treating you,chatbot_status
+hows your mood today,chatbot_status
+hows your progress today,chatbot_status
+whats the latest with you,chatbot_status
+hows the chat going today,chatbot_status
+what are you up to,chatbot_status
+whats going on with you,chatbot_status
+hows everything on your end,chatbot_status
+how do you feel today,chatbot_status
+how are things with you,chatbot_status
+whats up with you today,chatbot_status
+how do you do today,chatbot_status
+what are you capable of,capabilities
+what can you do for me,capabilities
+what are you here for,capabilities
+how can you help me today,capabilities
+whats your main function,capabilities
+can you do anything else,capabilities
+what is your main purpose,capabilities
+what abilities do you have,capabilities
+what are your features,capabilities
+what do you offer,capabilities
+how do you work,capabilities
+can you provide me with anything useful,capabilities
+whats your purpose as a chatbot,capabilities
+whats your function,capabilities
+how can you assist me today,capabilities
+bye,exit
+goodbye,exit
+see you later,exit
+take care,exit
+catch you later, exit
+farewell, exit
+until next time, exit
+have a good day, exit
+see you soon, exit
+goodnight, exit
+take it easy, exit
+im off, exit
+see you around, exit
+talk soon, exit
+bye for now, exit
+peace out, exit
+im leaving, exit
+ill be back, exit
+hasta la vista, exit
+later, exit
+so long, exit
+im out, exit
+goodbye for now, exit
